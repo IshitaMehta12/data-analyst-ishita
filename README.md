@@ -84,7 +84,7 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
 ![image](https://github.com/user-attachments/assets/ccfc9fcd-4711-4bc9-9b16-e5a844cfc62a)
 
 
-## <a name="_toc1246240713"></a>**Methodology:**
+## <a name="_toc694820834"></a>**Methodology:**
 1. **Data Collection and Preparation:**
    - The raw data is downloaded from the City of Vancouver website. 
    - Load the raw dataset in the AWS S3 raw bucket using the upload option. 
@@ -99,7 +99,7 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
      - Average square footage and average number of seats from 2014 to 2020
      - Declining trend in seating capacity
      - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
-## <a name="_toc1111413764"></a>**Tools and Technologies:**
+## <a name="_toc694820834"></a>**Tools and Technologies:**
 - Draw.io for designing
 - The following AWS services were used:
   - AWS S3 service for data storage 
@@ -107,7 +107,7 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
   - AWS Glue for data cataloging
   - AWS Glue crawler to populate the Data Catalog 
   - AWS Glue service for summarization
-## <a name="_toc59278851"></a>**Deliverables:**
+## <a name="_toc694820834"></a>**Deliverables:**
 - A detailed report summarizing the methods, findings, DAP design and implementation screenshots. 
 
 This descriptive analysis project aims to provide a comprehensive understanding of cultural space trends in Vancouver, enabling better planning and development of diverse and accessible cultural venues.
