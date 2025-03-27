@@ -70,6 +70,8 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
 - Number of Seats: Seating capacity (if available).
 - Active Space: Operational status (Yes/No).
 - Coordinates: Latitude and longitude for mapping.
+## <a name="_toc694820834"></a>Data Analytics Platform Design
+![image](https://github.com/user-attachments/assets/9aa6b681-8db7-4fb3-9139-9147646a05c8)
 ## <a name="_toc1246240713"></a>**Methodology:**
 1. **Data Collection and Preparation:**
    - The raw data is downloaded from the City of Vancouver website. 
