@@ -34,7 +34,7 @@
    - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
    - Declining trend in seating capacity
    - Average square footage and average number of seats from 2014 to 2020
-## <a name="_toc2050187544"></a>**Tools and Technologies:**
+## <a name="_toc2050187544"></a>Tools and Technologies:
 - Draw.io for designing
 - The following AWS services were used:
   - AWS S3 service for data storage 
@@ -43,7 +43,7 @@
   - AWS Glue crawler to populate the Data Catalog 
   - AWS Glue service for summarization
   - AWS Amazon Athena service to run the SQL queries
-## <a name="_toc1413021882"></a>**Deliverables:**
+## <a name="_toc1413021882"></a>Deliverables:
 - A comprehensive report containing all analysis steps, design and implementation.
 
 This EDA project helps to demonstrate my analytical and programming skills. It highlights my ability to derive meaningful insights from data. 
@@ -87,7 +87,7 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
      - Average square footage and average number of seats from 2014 to 2020
      - Declining trend in seating capacity
      - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
-## <a name="_toc1111413764"></a>**Tools and Technologies:**
+## <a name="_toc1111413764"></a>Tools and Technologies:
 - Draw.io for designing
 - The following AWS services were used:
   - AWS S3 service for data storage 
@@ -95,7 +95,7 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
   - AWS Glue for data cataloging
   - AWS Glue crawler to populate the Data Catalog 
   - AWS Glue service for summarization
-## <a name="_toc59278851"></a>**Deliverables:**
+## <a name="_toc59278851"></a>Deliverables:
 - A detailed report summarizing the methods, findings, DAP design and implementation screenshots. 
 
 This descriptive analysis project aims to provide a comprehensive understanding of cultural space trends in Vancouver, enabling better planning and development of diverse and accessible cultural venues.
@@ -119,7 +119,7 @@ Effective data wrangling will facilitate better decision-making and more targete
 <a name="_toc1308325367"></a>**Dataset:** The data wrangling process will involve various datasets, including:
 
 - **Cultural Spaces Data**: Annual records (2014–2020) with fields like name, address, ownership type, square footage, and coordinates.
-## <a name="_toc1366712941"></a>**Methodology:**
+## <a name="_toc1366712941"></a>Methodology:
 1. **Data Collection:**
    - Raw data from City of Vancouver’s open data portal.
 1. **Data Assessment:**
@@ -135,13 +135,13 @@ Effective data wrangling will facilitate better decision-making and more targete
 1. **Documentation and Validation:**
    - Document the data wrangling process, including data sources, cleaning methods, and transformations applied to the dataset.
    - Validate the final dataset through exploratory data analysis (EDA) to confirm accuracy and completeness.
-## <a name="_toc1264904900"></a>**Tools and Technologies:**
+## <a name="_toc1264904900"></a>Tools and Technologies:
 - AWS Glue Databrew Service for profiling and cleaning
 - AWS S3 bucket to store the datasets.
 ## <a name="_toc86834294"></a>**Deliverables:**
 - A clean and transformed dataset ready for analysis, available in a suitable format (e.g., CSV for user and parquet for system).
 - A comprehensive report documenting the data wrangling process, including challenges encountered, methods employed, and final dataset characteristics.
-## <a name="_toc177782647"></a>**Timeline:**
+## <a name="_toc177782647"></a>Timeline:
 - Expected completion of the project: 3 months, including phases for assessment, cleaning, transformation, and documentation.\
 This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset is a reliable foundation for inclusive urban development.\
 
