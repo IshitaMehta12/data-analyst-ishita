@@ -1,4 +1,4 @@
-# <a name="_toc1949047065"></a>**Project 1 - Exploratory Data Analysis**
+# <a name="_toc1949047065"></a>**Project 1- Exploratory Data Analysis**
 <a name="_toc979250339"></a>**Project Description:** Exploratory Data Analysis (EDA) on Cultural Spaces in Vancouver
 
 <a name="_toc498019745"></a>**Project Title:** Mapping Vancouver’s Cultural Spaces: An Exploratory Data Analysis
@@ -18,27 +18,27 @@
 - **Active Space**: Operational status (Yes/No).
 - **Coordinates**: Latitude and longitude for geospatial mapping.
 
-\
-<a name="_toc979250339"></a>**Data Analytics Platform Design**
+**Data Analytics Platform Design**
 
-![image](https://github.com/user-attachments/assets/bfecb8c3-75d8-421b-a40d-2aa7deb71c23)
-## <a name="_toc694820834"></a>Methodology: 
+![A screenshot of a computer screen
+
+AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.001.png)
+## <a name="_toc694820834"></a>**Methodology:**
 1. **Data Collection and Preparation:**
    - The raw data is downloaded from the City of Vancouver website. 
    - Load the raw dataset in the AWS S3 raw bucket using the upload option. 
    - Perform data cleaning to address missing values, correct data types, and remove duplicates.
    - Rename the columns with the inconsistencies using the camel case format.
    - Create a data catalog using AWS Glue Crawlers to generate a schema from transformed data for querying purpose
-2. **Descriptive Statistics:**
+1. **Descriptive Statistics:**
    - Average size (square feet) of museums/galleries.
    - Range of seating capacity across different cultural spaces (minimum and maximum)
    - Identify trends in the physical space (average size in square feet) of museums/galleries over time.
-3. **Insights and Findings:**
+1. **Insights and Findings:**
    - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
    - Declining trend in seating capacity
    - Average square footage and average number of seats from 2014 to 2020
-
-## <a name="_toc694820834"></a>Tools and Technologies:
+## <a name="_toc2050187544"></a>**Tools and Technologies:**
 - Draw.io for designing
 - The following AWS services were used:
   - AWS S3 service for data storage 
@@ -47,12 +47,11 @@
   - AWS Glue crawler to populate the Data Catalog 
   - AWS Glue service for summarization
   - AWS Amazon Athena service to run the SQL queries
-\
-## <a name="_toc694820834"></a>Deliverables:
+## <a name="_toc1413021882"></a>**Deliverables:**
 - A comprehensive report containing all analysis steps, design and implementation.
 
 This EDA project helps to demonstrate my analytical and programming skills. It highlights my ability to derive meaningful insights from data. 
-# <a name="_toc1725342580"></a>**Project 2- Descriptive Analysis** 
+# <a name="_toc1725342580"></a>**Project 2 - Descriptive Analysis** 
 <a name="_toc1135837671"></a>**Project Description:** Descriptive Analysis of Cultural Spaces in Vancouver
 
 <a name="_toc257945545"></a>**Project Title:** Understanding Cultural Spaces in the City of Vancouver
@@ -75,26 +74,29 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
 - Number of Seats: Seating capacity (if available).
 - Active Space: Operational status (Yes/No).
 - Coordinates: Latitude and longitude for mapping.
-## <a name="_toc694820834"></a>Data Analytics Platform Design \
-![image](https://github.com/user-attachments/assets/9aa6b681-8db7-4fb3-9139-9147646a05c8)
-\
+
+**Data Analytics Platform Design**
+
+![A screenshot of a computer
+
+AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.002.png)
+
 ## <a name="_toc1246240713"></a>**Methodology:**
 1. **Data Collection and Preparation:**
    - The raw data is downloaded from the City of Vancouver website. 
    - Load the raw dataset in the AWS S3 raw bucket using the upload option. 
    - Perform data cleaning to address missing values, correct data types, and remove duplicates.
    - Rename the columns with the inconsistencies using the camel case format.
-2. **Descriptive Statistics:**
+1. **Descriptive Statistics:**
    - Calculate summary statistics for key variables, including:
      - Average size (square feet) of museums/galleries
      - Average number of seats available across cultural spaces over the years. 
-3. **Insights and Findings:**
+1. **Insights and Findings:**
    - Summarize the insights derived from the analysis, highlighting:
      - Average square footage and average number of seats from 2014 to 2020
      - Declining trend in seating capacity
      - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
-\
-## <a name="_toc1111413764"></a>Tools and Technologies:
+## <a name="_toc1111413764"></a>**Tools and Technologies:**
 - Draw.io for designing
 - The following AWS services were used:
   - AWS S3 service for data storage 
@@ -102,16 +104,21 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
   - AWS Glue for data cataloging
   - AWS Glue crawler to populate the Data Catalog 
   - AWS Glue service for summarization
-\
-## <a name="_toc59278851"></a>Deliverables:
+## <a name="_toc59278851"></a>**Deliverables:**
 - A detailed report summarizing the methods, findings, DAP design and implementation screenshots. 
 
 This descriptive analysis project aims to provide a comprehensive understanding of cultural space trends in Vancouver, enabling better planning and development of diverse and accessible cultural venues.
-\
-# <a name="_toc307757619"></a>**Summary Statistics**
-![image](https://github.com/user-attachments/assets/0d336706-bce0-4cf1-86aa-5ae7cd5f6c39)
 
-# <a name="_toc307757619"></a>**Project 3- Data Wrangling** 
+**Summary Statistics**
+
+![A screenshot of a computer
+
+AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.003.png)
+
+![A screenshot of a graph
+
+AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.004.png)
+# <a name="_toc307757619"></a>**Project 3 - Data Wrangling** 
 ### <a name="_toc810874663"></a>**Project Description:** Data Wrangling for Vancouver’s Cultural Spaces
 <a name="_toc409633099"></a>**Project Title:** Data Wrangling for informed and fair urban planning
 
@@ -128,40 +135,63 @@ Effective data wrangling will facilitate better decision-making and more targete
 <a name="_toc1308325367"></a>**Dataset:** The data wrangling process will involve various datasets, including:
 
 - **Cultural Spaces Data**: Annual records (2014–2020) with fields like name, address, ownership type, square footage, and coordinates.
-\
-## <a name="_toc1366712941"></a>Methodology:
+## <a name="_toc1366712941"></a>**Methodology:**
 1. **Data Collection:**
    - Raw data from City of Vancouver’s open data portal.
-2. **Data Assessment:**
+1. **Data Assessment:**
    - Use AWS Glue Databrew service to understand data issues. 
    - It also helps document data types, formats, and discrepancies.
-3. **Data Cleaning:**
+1. **Data Cleaning:**
    - The AWS Glue Databrew service helps to perform data profiling.  
    - Remove duplicate records and correct inconsistencies in data formats (e.g., date formats, naming conventions).
    - Normalize categorical variables to ensure consistency across datasets.
-4. **Data Transformation:**
+1. **Data Transformation:**
    - Perform data type conversions to ensure that all fields are in suitable formats for analysis (e.g., converting strings to datetime objects).
    - Derive new features that may aid in analytics, such as report date time. 
-5. **Documentation and Validation:**
+1. **Documentation and Validation:**
    - Document the data wrangling process, including data sources, cleaning methods, and transformations applied to the dataset.
    - Validate the final dataset through exploratory data analysis (EDA) to confirm accuracy and completeness.
-\
-## <a name="_toc1264904900"></a>Tools and Technologies:
+## <a name="_toc1264904900"></a>**Tools and Technologies:**
 - AWS Glue Databrew Service for profiling and cleaning
 - AWS S3 bucket to store the datasets.
-\
 ## <a name="_toc86834294"></a>**Deliverables:**
 - A clean and transformed dataset ready for analysis, available in a suitable format (e.g., CSV for user and parquet for system).
 - A comprehensive report documenting the data wrangling process, including challenges encountered, methods employed, and final dataset characteristics.
-\
-## <a name="_toc177782647"></a>Timeline:
-- Expected completion of the project: 3 months, including phases for assessment, cleaning, transformation, and documentation.\
-This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset is a reliable foundation for inclusive urban development.\
+## <a name="_toc177782647"></a>**Timeline:**
+- Expected completion of the project: 3 months, including phases for assessment, cleaning, transformation, and documentation.
 
-**Data Profiling**\
-![image](https://github.com/user-attachments/assets/cb23576e-19db-4f4d-a7c8-b31c1b33bb65)\
-![image](https://github.com/user-attachments/assets/afed39ef-705a-4d62-b2be-622d24f31503)\
-**Data Cleaning jobs**\
-![image](https://github.com/user-attachments/assets/9a411b05-d5fd-4269-90b0-0718f56f0877)\
+This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset is a reliable foundation for inclusive urban development. 
 
-## <a name="_toc177782647"></a>**Course Completion Badge**
+**Data Profiling Job**
+
+![A screenshot of a computer
+
+AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.005.png)
+
+**Profiling of dataset**
+
+![A screenshot of a computer
+
+AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.006.png)
+
+**Data Cleaning job**
+
+![A screenshot of a computer
+
+AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.007.png)
+
+# <a name="_toc1079073289"></a>**Course Completion Badge**
+**Course Completion Badge** 
+
+**Badge Link:** <https://www.credly.com/go/akQkdFag>
+
+![A white square with black text
+
+AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.008.png)
+
+**Course Completion Certificate**
+
+![A certificate of completion
+
+AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.009.png)
+
