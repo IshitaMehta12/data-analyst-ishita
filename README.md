@@ -19,6 +19,7 @@
 - **Coordinates**: Latitude and longitude for geospatial mapping.
 <a name="_toc932132075"></a>**Data Analytics Platform Design**
 ![image](https://github.com/user-attachments/assets/bfecb8c3-75d8-421b-a40d-2aa7deb71c23)
+\
 ## <a name="_toc694820834"></a>Methodology: 
 1. **Data Collection and Preparation:**
    - The raw data is downloaded from the City of Vancouver website. 
@@ -34,6 +35,7 @@
    - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
    - Declining trend in seating capacity
    - Average square footage and average number of seats from 2014 to 2020
+\
 ## <a name="_toc2050187544"></a>Tools and Technologies:
 - Draw.io for designing
 - The following AWS services were used:
@@ -43,6 +45,7 @@
   - AWS Glue crawler to populate the Data Catalog 
   - AWS Glue service for summarization
   - AWS Amazon Athena service to run the SQL queries
+\
 ## <a name="_toc1413021882"></a>Deliverables:
 - A comprehensive report containing all analysis steps, design and implementation.
 
@@ -72,21 +75,23 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
 - Coordinates: Latitude and longitude for mapping.
 ## <a name="_toc694820834"></a>Data Analytics Platform Design
 ![image](https://github.com/user-attachments/assets/9aa6b681-8db7-4fb3-9139-9147646a05c8)
+\
 ## <a name="_toc1246240713"></a>**Methodology:**
 1. **Data Collection and Preparation:**
    - The raw data is downloaded from the City of Vancouver website. 
    - Load the raw dataset in the AWS S3 raw bucket using the upload option. 
    - Perform data cleaning to address missing values, correct data types, and remove duplicates.
    - Rename the columns with the inconsistencies using the camel case format.
-1. **Descriptive Statistics:**
+2. **Descriptive Statistics:**
    - Calculate summary statistics for key variables, including:
      - Average size (square feet) of museums/galleries
      - Average number of seats available across cultural spaces over the years. 
-1. **Insights and Findings:**
+3. **Insights and Findings:**
    - Summarize the insights derived from the analysis, highlighting:
      - Average square footage and average number of seats from 2014 to 2020
      - Declining trend in seating capacity
      - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
+\
 ## <a name="_toc1111413764"></a>Tools and Technologies:
 - Draw.io for designing
 - The following AWS services were used:
@@ -95,10 +100,12 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
   - AWS Glue for data cataloging
   - AWS Glue crawler to populate the Data Catalog 
   - AWS Glue service for summarization
+\
 ## <a name="_toc59278851"></a>Deliverables:
 - A detailed report summarizing the methods, findings, DAP design and implementation screenshots. 
 
 This descriptive analysis project aims to provide a comprehensive understanding of cultural space trends in Vancouver, enabling better planning and development of diverse and accessible cultural venues.
+\
 # <a name="_toc307757619"></a>**Summary Statistics**
 ![image](https://github.com/user-attachments/assets/0d336706-bce0-4cf1-86aa-5ae7cd5f6c39)
 
@@ -119,28 +126,32 @@ Effective data wrangling will facilitate better decision-making and more targete
 <a name="_toc1308325367"></a>**Dataset:** The data wrangling process will involve various datasets, including:
 
 - **Cultural Spaces Data**: Annual records (2014–2020) with fields like name, address, ownership type, square footage, and coordinates.
+\
 ## <a name="_toc1366712941"></a>Methodology:
 1. **Data Collection:**
    - Raw data from City of Vancouver’s open data portal.
-1. **Data Assessment:**
+2. **Data Assessment:**
    - Use AWS Glue Databrew service to understand data issues. 
    - It also helps document data types, formats, and discrepancies.
-1. **Data Cleaning:**
+3. **Data Cleaning:**
    - The AWS Glue Databrew service helps to perform data profiling.  
    - Remove duplicate records and correct inconsistencies in data formats (e.g., date formats, naming conventions).
    - Normalize categorical variables to ensure consistency across datasets.
-1. **Data Transformation:**
+4. **Data Transformation:**
    - Perform data type conversions to ensure that all fields are in suitable formats for analysis (e.g., converting strings to datetime objects).
    - Derive new features that may aid in analytics, such as report date time. 
-1. **Documentation and Validation:**
+5. **Documentation and Validation:**
    - Document the data wrangling process, including data sources, cleaning methods, and transformations applied to the dataset.
    - Validate the final dataset through exploratory data analysis (EDA) to confirm accuracy and completeness.
+\
 ## <a name="_toc1264904900"></a>Tools and Technologies:
 - AWS Glue Databrew Service for profiling and cleaning
 - AWS S3 bucket to store the datasets.
+\
 ## <a name="_toc86834294"></a>**Deliverables:**
 - A clean and transformed dataset ready for analysis, available in a suitable format (e.g., CSV for user and parquet for system).
 - A comprehensive report documenting the data wrangling process, including challenges encountered, methods employed, and final dataset characteristics.
+\
 ## <a name="_toc177782647"></a>Timeline:
 - Expected completion of the project: 3 months, including phases for assessment, cleaning, transformation, and documentation.\
 This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset is a reliable foundation for inclusive urban development.\
