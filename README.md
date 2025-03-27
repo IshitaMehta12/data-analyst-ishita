@@ -49,7 +49,6 @@
   - AWS Glue crawler to populate the Data Catalog 
   - AWS Glue service for summarization
   - AWS Amazon Athena service to run the SQL queries
-
 ## <a name="_toc1413021882"></a>**Deliverables:**
 - A comprehensive report containing all analysis steps, design and implementation.
 
