@@ -17,7 +17,7 @@
 - **Square Feet**: Size of the facility (30% missing values).
 - **Active Space**: Operational status (Yes/No).
 - **Coordinates**: Latitude and longitude for geospatial mapping.
-<a name="_toc932132075"></a>**Data Analytics Platform Design**
+<a name="_toc932132075"></a>**Data Analytics Platform Design** \
 ![image](https://github.com/user-attachments/assets/bfecb8c3-75d8-421b-a40d-2aa7deb71c23)
 \
 ## <a name="_toc694820834"></a>Methodology: 
@@ -27,11 +27,11 @@
    - Perform data cleaning to address missing values, correct data types, and remove duplicates.
    - Rename the columns with the inconsistencies using the camel case format.
    - Create a data catalog using AWS Glue Crawlers to generate a schema from transformed data for querying purpose
-1. **Descriptive Statistics:**
+2. **Descriptive Statistics:**
    - Average size (square feet) of museums/galleries.
    - Range of seating capacity across different cultural spaces (minimum and maximum)
    - Identify trends in the physical space (average size in square feet) of museums/galleries over time.
-1. **Insights and Findings:**
+3. **Insights and Findings:**
    - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
    - Declining trend in seating capacity
    - Average square footage and average number of seats from 2014 to 2020
@@ -73,7 +73,7 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
 - Number of Seats: Seating capacity (if available).
 - Active Space: Operational status (Yes/No).
 - Coordinates: Latitude and longitude for mapping.
-## <a name="_toc694820834"></a>Data Analytics Platform Design
+## <a name="_toc694820834"></a>Data Analytics Platform Design \
 ![image](https://github.com/user-attachments/assets/9aa6b681-8db7-4fb3-9139-9147646a05c8)
 \
 ## <a name="_toc1246240713"></a>**Methodology:**
