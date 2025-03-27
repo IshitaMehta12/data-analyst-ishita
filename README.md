@@ -40,7 +40,8 @@
    - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
    - Declining trend in seating capacity
    - Average square footage and average number of seats from 2014 to 2020
-## <a name="_toc2050187544"></a>**Tools and Technologies:**
+     
+## <a name="_toc694820834"></a>**Tools and Technologies:**
 - Draw.io for designing
 - The following AWS services were used:
   - AWS S3 service for data storage 
@@ -49,7 +50,8 @@
   - AWS Glue crawler to populate the Data Catalog 
   - AWS Glue service for summarization
   - AWS Amazon Athena service to run the SQL queries
-## <a name="_toc1413021882"></a>**Deliverables:**
+    
+## <a name="_toc694820834"></a>**Deliverables:**
 - A comprehensive report containing all analysis steps, design and implementation.
 
 This EDA project helps to demonstrate my analytical and programming skills. It highlights my ability to derive meaningful insights from data. 
