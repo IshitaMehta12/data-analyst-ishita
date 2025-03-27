@@ -154,13 +154,13 @@ Effective data wrangling will facilitate better decision-making and more targete
 5. **Documentation and Validation:**
    - Document the data wrangling process, including data sources, cleaning methods, and transformations applied to the dataset.
    - Validate the final dataset through exploratory data analysis (EDA) to confirm accuracy and completeness.
-## <a name="_toc1264904900"></a>**Tools and Technologies:**
+## <a name="_toc1366712941"></a>**Tools and Technologies:**
 - AWS Glue Databrew Service for profiling and cleaning
 - AWS S3 bucket to store the datasets.
-## <a name="_toc86834294"></a>**Deliverables:**
+## <a name="_toc1366712941"></a>**Deliverables:**
 - A clean and transformed dataset ready for analysis, available in a suitable format (e.g., CSV for user and parquet for system).
 - A comprehensive report documenting the data wrangling process, including challenges encountered, methods employed, and final dataset characteristics.
-## <a name="_toc177782647"></a>**Timeline:**
+## <a name="_toc1366712941"></a>**Timeline:**
 - Expected completion of the project: 3 months, including phases for assessment, cleaning, transformation, and documentation.
 
 This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset is a reliable foundation for inclusive urban development. 
