@@ -99,6 +99,7 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
      - Average square footage and average number of seats from 2014 to 2020
      - Declining trend in seating capacity
      - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
+
 ## <a name="_toc694820834"></a>**Tools and Technologies:**
 - Draw.io for designing
 - The following AWS services were used:
@@ -107,6 +108,7 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
   - AWS Glue for data cataloging
   - AWS Glue crawler to populate the Data Catalog 
   - AWS Glue service for summarization
+ 
 ## <a name="_toc694820834"></a>**Deliverables:**
 - A detailed report summarizing the methods, findings, DAP design and implementation screenshots. 
 
@@ -154,13 +156,16 @@ Effective data wrangling will facilitate better decision-making and more targete
 5. **Documentation and Validation:**
    - Document the data wrangling process, including data sources, cleaning methods, and transformations applied to the dataset.
    - Validate the final dataset through exploratory data analysis (EDA) to confirm accuracy and completeness.
-## <a name="_toc1366712941"></a>**Tools and Technologies:**
+     
+## <a name="_toc810874663"></a>**Tools and Technologies:**
 - AWS Glue Databrew Service for profiling and cleaning
 - AWS S3 bucket to store the datasets.
-## <a name="_toc1366712941"></a>**Deliverables:**
+
+## <a name="_toc810874663"></a>**Deliverables:**
 - A clean and transformed dataset ready for analysis, available in a suitable format (e.g., CSV for user and parquet for system).
 - A comprehensive report documenting the data wrangling process, including challenges encountered, methods employed, and final dataset characteristics.
-## <a name="_toc1366712941"></a>**Timeline:**
+
+## <a name="_toc810874663"></a>**Timeline:**
 - Expected completion of the project: 3 months, including phases for assessment, cleaning, transformation, and documentation.
 
 This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset is a reliable foundation for inclusive urban development. 
