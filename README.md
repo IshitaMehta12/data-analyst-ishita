@@ -99,6 +99,9 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
 - A detailed report summarizing the methods, findings, DAP design and implementation screenshots. 
 
 This descriptive analysis project aims to provide a comprehensive understanding of cultural space trends in Vancouver, enabling better planning and development of diverse and accessible cultural venues.
+**Summary Statistics**
+![image](https://github.com/user-attachments/assets/0d336706-bce0-4cf1-86aa-5ae7cd5f6c39)
+
 # <a name="_toc307757619"></a>**Project 3- Data Wrangling** 
 ### <a name="_toc810874663"></a>**Project Description:** Data Wrangling for Vancouver’s Cultural Spaces
 <a name="_toc409633099"></a>**Project Title:** Data Wrangling for informed and fair urban planning
