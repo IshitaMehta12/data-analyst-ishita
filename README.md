@@ -1,3 +1,5 @@
+# data-analyst-ishita
+
 # <a name="_toc1949047065"></a>**Project 1- Exploratory Data Analysis**
 <a name="_toc979250339"></a>**Project Description:** Exploratory Data Analysis (EDA) on Cultural Spaces in Vancouver
 
@@ -20,9 +22,8 @@
 
 **Data Analytics Platform Design**
 
-![A screenshot of a computer screen
+![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.001.png)
 
-AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.001.png)
 ## <a name="_toc694820834"></a>**Methodology:**
 1. **Data Collection and Preparation:**
    - The raw data is downloaded from the City of Vancouver website. 
@@ -30,11 +31,11 @@ AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575
    - Perform data cleaning to address missing values, correct data types, and remove duplicates.
    - Rename the columns with the inconsistencies using the camel case format.
    - Create a data catalog using AWS Glue Crawlers to generate a schema from transformed data for querying purpose
-1. **Descriptive Statistics:**
+2. **Descriptive Statistics:**
    - Average size (square feet) of museums/galleries.
    - Range of seating capacity across different cultural spaces (minimum and maximum)
    - Identify trends in the physical space (average size in square feet) of museums/galleries over time.
-1. **Insights and Findings:**
+3. **Insights and Findings:**
    - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
    - Declining trend in seating capacity
    - Average square footage and average number of seats from 2014 to 2020
@@ -77,9 +78,7 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
 
 **Data Analytics Platform Design**
 
-![A screenshot of a computer
-
-AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.002.png)
+![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.002.png)
 
 ## <a name="_toc1246240713"></a>**Methodology:**
 1. **Data Collection and Preparation:**
@@ -87,11 +86,11 @@ AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575
    - Load the raw dataset in the AWS S3 raw bucket using the upload option. 
    - Perform data cleaning to address missing values, correct data types, and remove duplicates.
    - Rename the columns with the inconsistencies using the camel case format.
-1. **Descriptive Statistics:**
+2. **Descriptive Statistics:**
    - Calculate summary statistics for key variables, including:
      - Average size (square feet) of museums/galleries
      - Average number of seats available across cultural spaces over the years. 
-1. **Insights and Findings:**
+3. **Insights and Findings:**
    - Summarize the insights derived from the analysis, highlighting:
      - Average square footage and average number of seats from 2014 to 2020
      - Declining trend in seating capacity
@@ -111,13 +110,11 @@ This descriptive analysis project aims to provide a comprehensive understanding 
 
 **Summary Statistics**
 
-![A screenshot of a computer
+![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.003.png)
 
-AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.003.png)
 
-![A screenshot of a graph
+![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.004.png)
 
-AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.004.png)
 # <a name="_toc307757619"></a>**Project 3 - Data Wrangling** 
 ### <a name="_toc810874663"></a>**Project Description:** Data Wrangling for Vancouver’s Cultural Spaces
 <a name="_toc409633099"></a>**Project Title:** Data Wrangling for informed and fair urban planning
@@ -138,17 +135,17 @@ Effective data wrangling will facilitate better decision-making and more targete
 ## <a name="_toc1366712941"></a>**Methodology:**
 1. **Data Collection:**
    - Raw data from City of Vancouver’s open data portal.
-1. **Data Assessment:**
+2. **Data Assessment:**
    - Use AWS Glue Databrew service to understand data issues. 
    - It also helps document data types, formats, and discrepancies.
-1. **Data Cleaning:**
+3. **Data Cleaning:**
    - The AWS Glue Databrew service helps to perform data profiling.  
    - Remove duplicate records and correct inconsistencies in data formats (e.g., date formats, naming conventions).
    - Normalize categorical variables to ensure consistency across datasets.
-1. **Data Transformation:**
+4. **Data Transformation:**
    - Perform data type conversions to ensure that all fields are in suitable formats for analysis (e.g., converting strings to datetime objects).
    - Derive new features that may aid in analytics, such as report date time. 
-1. **Documentation and Validation:**
+5. **Documentation and Validation:**
    - Document the data wrangling process, including data sources, cleaning methods, and transformations applied to the dataset.
    - Validate the final dataset through exploratory data analysis (EDA) to confirm accuracy and completeness.
 ## <a name="_toc1264904900"></a>**Tools and Technologies:**
@@ -164,34 +161,24 @@ This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset
 
 **Data Profiling Job**
 
-![A screenshot of a computer
-
-AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.005.png)
+![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.005.png)
 
 **Profiling of dataset**
 
-![A screenshot of a computer
-
-AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.006.png)
+![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.006.png))
 
 **Data Cleaning job**
 
-![A screenshot of a computer
-
-AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.007.png)
+![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.007.png)
 
 # <a name="_toc1079073289"></a>**Course Completion Badge**
 **Course Completion Badge** 
 
 **Badge Link:** <https://www.credly.com/go/akQkdFag>
 
-![A white square with black text
-
-AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.008.png)
+![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.008.png)
 
 **Course Completion Certificate**
 
-![A certificate of completion
-
-AI-generated content may be incorrect.](Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.009.png)
+![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.009.png)
 
