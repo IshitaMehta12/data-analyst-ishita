@@ -17,8 +17,11 @@
 - **Square Feet**: Size of the facility (30% missing values).
 - **Active Space**: Operational status (Yes/No).
 - **Coordinates**: Latitude and longitude for geospatial mapping.
-<a name="_toc932132075"></a>**Data Analytics Platform Design** \
-![image](https://github.com/user-attachments/assets/bfecb8c3-75d8-421b-a40d-2aa7deb71c23) \
+
+\
+<a name="_toc979250339"></a>**Data Analytics Platform Design**
+
+![image](https://github.com/user-attachments/assets/bfecb8c3-75d8-421b-a40d-2aa7deb71c23)
 ## <a name="_toc694820834"></a>Methodology: 
 1. **Data Collection and Preparation:**
    - The raw data is downloaded from the City of Vancouver website. 
@@ -34,8 +37,8 @@
    - A decline in average square footage in 2015-2016, stabilized in 2017-2018 and experienced significant expansion in 2020.
    - Declining trend in seating capacity
    - Average square footage and average number of seats from 2014 to 2020
-\
-## <a name="_toc2050187544"></a>Tools and Technologies:
+
+## <a name="_toc694820834"></a>Tools and Technologies:
 - Draw.io for designing
 - The following AWS services were used:
   - AWS S3 service for data storage 
@@ -45,7 +48,7 @@
   - AWS Glue service for summarization
   - AWS Amazon Athena service to run the SQL queries
 \
-## <a name="_toc1413021882"></a>Deliverables:
+## <a name="_toc694820834"></a>Deliverables:
 - A comprehensive report containing all analysis steps, design and implementation.
 
 This EDA project helps to demonstrate my analytical and programming skills. It highlights my ability to derive meaningful insights from data. 
