@@ -1,4 +1,4 @@
-# <a name="_toc1949047065"></a>**Exploratory Data Analysis**
+# <a name="_toc1949047065"></a>**Project 1 - Exploratory Data Analysis**
 <a name="_toc979250339"></a>**Project Description:** Exploratory Data Analysis (EDA) on Cultural Spaces in Vancouver
 
 <a name="_toc498019745"></a>**Project Title:** Mapping Vancouver’s Cultural Spaces: An Exploratory Data Analysis
@@ -45,7 +45,7 @@
 - A comprehensive report containing all analysis steps, design and implementation.
 
 This EDA project helps to demonstrate my analytical and programming skills. It highlights my ability to derive meaningful insights from data. 
-# <a name="_toc1725342580"></a>**Descriptive Analysis** 
+# <a name="_toc1725342580"></a>**Project 2- Descriptive Analysis** 
 <a name="_toc1135837671"></a>**Project Description:** Descriptive Analysis of Cultural Spaces in Vancouver
 
 <a name="_toc257945545"></a>**Project Title:** Understanding Cultural Spaces in the City of Vancouver
@@ -95,7 +95,7 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
 - A detailed report summarizing the methods, findings, DAP design and implementation screenshots. 
 
 This descriptive analysis project aims to provide a comprehensive understanding of cultural space trends in Vancouver, enabling better planning and development of diverse and accessible cultural venues.
-# <a name="_toc307757619"></a>**Data Wrangling** 
+# <a name="_toc307757619"></a>**Project 3- Data Wrangling** 
 ### <a name="_toc810874663"></a>**Project Description:** Data Wrangling for Vancouver’s Cultural Spaces
 <a name="_toc409633099"></a>**Project Title:** Data Wrangling for informed and fair urban planning
 
