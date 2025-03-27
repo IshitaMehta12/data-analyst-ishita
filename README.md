@@ -183,11 +183,13 @@ This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset
 
 **Badge Link:** <https://www.credly.com/go/akQkdFag>
 
-![image](https://github.com/user-attachments/assets/5f67ae9e-61d4-4458-a33a-2cee094fcc27)
+![image](https://github.com/user-attachments/assets/7326ef3f-a195-43e0-87ac-caca01a32a14)
+
 
 
 **Course Completion Certificate**
 
-![image](https://github.com/user-attachments/assets/67569922-6867-42a7-a29b-4b77ef84529a)
+![image](https://github.com/user-attachments/assets/487cef88-0bc5-422e-8e90-e59ddd6cbd5d)
+
 
 
