@@ -98,8 +98,8 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
 ## <a name="_toc59278851"></a>**Deliverables:**
 - A detailed report summarizing the methods, findings, DAP design and implementation screenshots. 
 
-This descriptive analysis project aims to provide a comprehensive understanding of cultural space trends in Vancouver, enabling better planning and development of diverse and accessible cultural venues.\
-**Summary Statistics**
+This descriptive analysis project aims to provide a comprehensive understanding of cultural space trends in Vancouver, enabling better planning and development of diverse and accessible cultural venues.
+# <a name="_toc307757619"></a>**Summary Statistics**
 ![image](https://github.com/user-attachments/assets/0d336706-bce0-4cf1-86aa-5ae7cd5f6c39)
 
 # <a name="_toc307757619"></a>**Project 3- Data Wrangling** 
