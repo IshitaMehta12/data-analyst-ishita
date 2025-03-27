@@ -140,6 +140,7 @@ Effective data wrangling will facilitate better decision-making and more targete
 <a name="_toc1308325367"></a>**Dataset:** The data wrangling process will involve various datasets, including:
 
 - **Cultural Spaces Data**: Annual records (2014–2020) with fields like name, address, ownership type, square footage, and coordinates.
+  
 ## <a name="_toc810874663"></a>**Methodology:**
 1. **Data Collection:**
    - Raw data from City of Vancouver’s open data portal.
