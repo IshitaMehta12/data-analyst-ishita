@@ -79,7 +79,8 @@ This EDA project helps to demonstrate my analytical and programming skills. It h
 
 **Data Analytics Platform Design**
 
-![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.002.png)
+![image](https://github.com/user-attachments/assets/ccfc9fcd-4711-4bc9-9b16-e5a844cfc62a)
+
 
 ## <a name="_toc1246240713"></a>**Methodology:**
 1. **Data Collection and Preparation:**
@@ -111,10 +112,12 @@ This descriptive analysis project aims to provide a comprehensive understanding 
 
 **Summary Statistics**
 
-![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.003.png)
+![image](https://github.com/user-attachments/assets/5a583d89-a8f9-4702-ae0b-be40e38c5a4c)
 
 
-![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.004.png)
+
+![image](https://github.com/user-attachments/assets/32118691-16a6-4b7d-8ab7-ed8a3aec06ee)
+
 
 # <a name="_toc307757619"></a>**Project 3 - Data Wrangling** 
 ### <a name="_toc810874663"></a>**Project Description:** Data Wrangling for Vancouver’s Cultural Spaces
@@ -162,24 +165,29 @@ This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset
 
 **Data Profiling Job**
 
-![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.005.png)
+![image](https://github.com/user-attachments/assets/168d4d26-3413-4657-b266-7418d6c2ce2b)
+
 
 **Profiling of dataset**
 
-![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.006.png))
+![image](https://github.com/user-attachments/assets/a2c7c03f-174f-4466-aedd-553a72b39689)
+
 
 **Data Cleaning job**
 
-![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.007.png)
+![image](https://github.com/user-attachments/assets/fd54a7b3-eb6e-4f8f-b68c-c3bbbfdbacc7)
+
 
 # <a name="_toc1079073289"></a>**Course Completion Badge**
 **Course Completion Badge** 
 
 **Badge Link:** <https://www.credly.com/go/akQkdFag>
 
-![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.008.png)
+![image](https://github.com/user-attachments/assets/5f67ae9e-61d4-4458-a33a-2cee094fcc27)
+
 
 **Course Completion Certificate**
 
-![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.009.png)
+![image](https://github.com/user-attachments/assets/67569922-6867-42a7-a29b-4b77ef84529a)
+
 
