@@ -17,6 +17,8 @@
 - **Square Feet**: Size of the facility (30% missing values).
 - **Active Space**: Operational status (Yes/No).
 - **Coordinates**: Latitude and longitude for geospatial mapping.
+## <a name="_toc694820834"></a>Data Analytics Platform Design
+![image](https://github.com/user-attachments/assets/bfecb8c3-75d8-421b-a40d-2aa7deb71c23)
 ## <a name="_toc694820834"></a>Methodology:
 1. **Data Collection and Preparation:**
    - The raw data is downloaded from the City of Vancouver website. 
