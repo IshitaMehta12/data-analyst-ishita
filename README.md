@@ -143,5 +143,10 @@ Effective data wrangling will facilitate better decision-making and more targete
 - A comprehensive report documenting the data wrangling process, including challenges encountered, methods employed, and final dataset characteristics.
 ## <a name="_toc177782647"></a>**Timeline:**
 - Expected completion of the project: 3 months, including phases for assessment, cleaning, transformation, and documentation.
+**Data Profiling**
+![image](https://github.com/user-attachments/assets/cb23576e-19db-4f4d-a7c8-b31c1b33bb65)
+![image](https://github.com/user-attachments/assets/afed39ef-705a-4d62-b2be-622d24f31503)
+**Data Cleaning jobs**
+![image](https://github.com/user-attachments/assets/9a411b05-d5fd-4269-90b0-0718f56f0877)
 
 This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset is a reliable foundation for inclusive urban development. 
