@@ -17,9 +17,9 @@
 - **Square Feet**: Size of the facility (30% missing values).
 - **Active Space**: Operational status (Yes/No).
 - **Coordinates**: Latitude and longitude for geospatial mapping.
-## <a name="_toc694820834"></a>Data Analytics Platform Design
+<a name="_toc932132075"></a>**Data Analytics Platform Design**
 ![image](https://github.com/user-attachments/assets/bfecb8c3-75d8-421b-a40d-2aa7deb71c23)
-## <a name="_toc694820834"></a>Methodology:
+## <a name="_toc694820834"></a>Methodology: 
 1. **Data Collection and Preparation:**
    - The raw data is downloaded from the City of Vancouver website. 
    - Load the raw dataset in the AWS S3 raw bucket using the upload option. 
@@ -143,7 +143,6 @@ Effective data wrangling will facilitate better decision-making and more targete
 - A comprehensive report documenting the data wrangling process, including challenges encountered, methods employed, and final dataset characteristics.
 ## <a name="_toc177782647"></a>**Timeline:**
 - Expected completion of the project: 3 months, including phases for assessment, cleaning, transformation, and documentation.\
-
 This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset is a reliable foundation for inclusive urban development.\
 
 **Data Profiling**\
@@ -151,3 +150,5 @@ This data-wrangling project aims to ensure Vancouver’s cultural spaces dataset
 ![image](https://github.com/user-attachments/assets/afed39ef-705a-4d62-b2be-622d24f31503)\
 **Data Cleaning jobs**\
 ![image](https://github.com/user-attachments/assets/9a411b05-d5fd-4269-90b0-0718f56f0877)\
+
+## <a name="_toc177782647"></a>**Course Completion Badge**
