@@ -22,7 +22,8 @@
 
 **Data Analytics Platform Design**
 
-![alt text](https://github.com/IshitaMehta12/data-analyst-ishita/blob/main/Aspose.Words.e8c23fdd-8624-4a25-bd9f-575a4aec1b7c.001.png)
+![image](https://github.com/user-attachments/assets/7687988d-ae52-4e03-98b2-89166b088ca8)
+
 
 ## <a name="_toc694820834"></a>**Methodology:**
 1. **Data Collection and Preparation:**
